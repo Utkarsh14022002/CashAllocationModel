@@ -7,7 +7,7 @@ This project aims to develop a robust cash allocation model using financial data
 The project consists of three main components:
 
 # 📊 Data Collection (dataCollection.py)
-Collects data from sources like NSE, RBI, and SEBI.
+Collects data from sources like NSE, RBI, and SEBI. 
 
 # 🔧 Feature Engineering (featureEngineering.py)
 Computes financial metrics from the collected data.
